@@ -20,7 +20,7 @@ Refer to these blueprints to know `why` and `what` we build.
 
 <br>  
 
-![Blueprints - Design Plans (1)](https://user-images.githubusercontent.com/49322832/165000262-709bc6cf-8ecd-4fef-a5b7-7f4c79b718d8.jpeg)
+![Blueprints - Design Plans (1)](https://user-images.githubusercontent.com/49322832/165546850-6eada0d7-877f-4780-bb6f-67f4ee420e2f.jpeg)
 <br> 
 <br>
 
