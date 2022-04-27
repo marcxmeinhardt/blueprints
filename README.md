@@ -28,7 +28,7 @@ ___
 
 ### Purpose
 
-This repository is used create the `plans`, `models` and `templates` used for the `processes` of our **organization** (CryptoMap + BoMe).  
+Provide `Infrastructure`. This repository is used create the `plans`, `models` and `templates` used for the `processes` for organizations.  
  
 It provides a list of blueprints for ideas, visions, teams, operations, projects, products, services and organizations.
 
